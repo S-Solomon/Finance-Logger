@@ -1,0 +1,2 @@
+// let greet: Function;
+
